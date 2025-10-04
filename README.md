@@ -164,7 +164,7 @@ Want to contribute?
 ---
 
 ## 🧑‍💻 Author
-**Created by:** [Your Name / GitHub Username]  
+**Created by:** [RAJKUMAR / https://github.com/RAJ06-C]  
 **Purpose:** To teach and learn **C Programming from basic to advanced level**, including practical coding and interview preparation.
 
 ---
