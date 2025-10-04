@@ -34,41 +34,50 @@ This guide will help you install and configure your environment step-by-step. �
    gcc filename.c -o output
    ./output
 
+---
 
 ###🧑‍💻 2. Installing on Linux / macOS
-####🐧 For Linux (Ubuntu/Debian):
+
+***🐧 For Linux (Ubuntu/Debian):
+
     ```bash
+    
     -sudo apt update
     -sudo apt install build-essential
 
 
-####To compile and run:
+***To compile and run:
 
     ```bash
     gcc filename.c -o output
     ./output
 
+---
 
-    ###🍎 For macOS:
+###🍎 For macOS:
 
 ####-Install Xcode Command Line Tools:
+
     ```bash
     -xcode-select --install
 
 
-Then compile and run as usual:
+**Then compile and run as usual:
+
     ```bash
     -gcc filename.c -o output
     -./output
 
+---
 
 ###🧠 Verify Your Setup
 
-    -Run this command in terminal or command prompt:
+   ***-Run this command in terminal or command prompt:
+    
     ```bash
     gcc --version
 
-    If it shows a version number (e.g., gcc 13.2.0), your setup is complete! 🎉
+   *** If it shows a version number (e.g., gcc 13.2.0), your setup is complete! 🎉
 
 
 
@@ -106,3 +115,4 @@ int main() {           // Main function
 void greet() {
     printf("Welcome to C Programming!\n");
 }
+
