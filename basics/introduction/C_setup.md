@@ -46,7 +46,7 @@ This guide will help you install and configure your environment step-by-step. �
     -sudo apt install build-essential
 
 
-***To compile and run:
+-   ***To compile and run:
 
     ```bash
     gcc filename.c -o output
@@ -62,7 +62,7 @@ This guide will help you install and configure your environment step-by-step. �
     -xcode-select --install
 
 
-**Then compile and run as usual:
+-   ***Then compile and run as usual:
 
     ```bash
     -gcc filename.c -o output
@@ -72,23 +72,19 @@ This guide will help you install and configure your environment step-by-step. �
 
 ###🧠 Verify Your Setup
 
-   ***-Run this command in terminal or command prompt:
+- ***-Run this command in terminal or command prompt:
     
     ```bash
     gcc --version
 
-   *** If it shows a version number (e.g., gcc 13.2.0), your setup is complete! 🎉
-
-
-
-
+- *** If it shows a version number (e.g., gcc 13.2.0), your setup is complete! 🎉
     
 ---
 
 ## 🧩 2️⃣ `/basics/structure_and_compilation/README.md`  
 ### 📘 **Structure of a C Program & Compilation Process**
 
-```markdown
+
 # 🧠 Structure of a C Program & Compilation Process
 
 Before writing complex programs, it’s essential to understand **how a C program is structured** and **how it gets executed**.
@@ -115,4 +111,5 @@ int main() {           // Main function
 void greet() {
     printf("Welcome to C Programming!\n");
 }
+
 
