@@ -105,6 +105,3 @@ Its simplicity, power, and flexibility make it a must-learn for every programmer
 > 🗣️ “C is the language of the machine’s soul.” — Every System Programmer
 
 ---
-
-## 📚 Next Topic
-👉 [Variables, Data Types & Operators](../basics/variables_data_types.md)
