@@ -43,7 +43,7 @@ if (condition) {
 ## NESTED IF ELSE IN C
 
 
-*A nested if in C is an if statement that is the target of another if statement. Nested if statements mean an if statement inside another if statement. Yes, C allow us to nested if statements within if statements, i.e, we can place an if statement inside another if statement*
+*A nested if in C is an if statement that is the target of another if statement. Nested if statements mean an if statement inside another if statement. Yes, C allows us to nested if statements within if statements, i.e, we can place an if statement inside another if statement*
 
 - syntax
 ```
@@ -61,9 +61,9 @@ if (outer_condition) {
 ```
 ---
 
-## F ELSE IF LADDER IN C
+## IF ELSE IF LADDER IN C
 
-*The if else if statements are used when the user has to decide among multiple options. The C if statements are executed from the top down. As soon as one of the conditions controlling the if is true, the statement associated with that if is executed, and the rest of the C else-if ladder is bypassed. If none of the conditions is true, then the final else statement will be executed. if-else-if ladder is similar to the switch statement*
+*The if-else if statements are used when the user has to decide among multiple options. The C if statements are executed from the top down. As soon as one of the conditions controlling the if is true, the statement associated with that if is executed, and the rest of the C else-if ladder is bypassed. If none of the conditions is true, then the final else statement will be executed. If-else-if ladder is similar to the switch statement*
 
 - syntax
 ```
@@ -120,7 +120,7 @@ else {
 ---
 ## do-while loop
 
-*The do-while loop is an exit-controlled loop, which means that the condition is checked after executing the loop body. Due to this, the loop body will execute at least once irrespective of the test condition.*
+*The do-while loop is an exit-controlled loop, which means that the condition is checked after executing the loop body. Due to this, the loop body will execute at least once, irrespective of the test condition.*
 
 - syntax
 ```
@@ -171,5 +171,6 @@ else {
 // ... some code ...
 label: statement;
 ```
+
 
 ---
